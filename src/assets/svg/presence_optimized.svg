@@ -1,0 +1,44 @@
+<svg version="1.1" viewBox="0 0 250 491" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.a{opacity:0.1;}.b,.d{fill:#212121;}.b{fill-rule:evenodd;}.c{fill:#333;}.e{fill:url(#a);}.f,.n{fill:#fff;}.g{fill:url(#b);}.h{fill:none;stroke:#fff;stroke-width:4px;}.i{fill:#5f5f61;font-family:WhitneyHTF-SemiBold, Whitney HTF;font-weight:600;}.i,.j,.k,.l{font-size:12px;}.j,.l,.m{fill:#a08c5b;}.j,.k{font-family:WhitneyHTF-Medium, Whitney HTF;font-weight:500;}.k{fill:#bcbcbc;}.l{font-family:WhitneyHTF-Bold, Whitney HTF;font-weight:700;}.n{opacity:0.2;}.o{fill:url(#c);}</style>
+  </defs>
+  <g transform="translate(-125,-42)">
+    <g transform="translate(125,42)">
+      <g transform="translate(0,439)">
+        <path class="b" d="m0 0h250v48.006a4 4 0 0 1-4 3.994h-242a4 4 0 0 1-4-3.994z" fill="#212121" fill-rule="evenodd"/>
+        <path class="c" transform="translate(10,10)" d="m5 0h220a5 5 0 0 1 5 5v22a5 5 0 0 1-5 5h-220a5 5 0 0 1-5-5v-22a5 5 0 0 1 5-5z" fill="#333"/>
+      </g>
+      <rect class="d" transform="translate(0,182)" width="250" height="258" fill="#212121"/>
+      <g fill="#333">
+        <rect class="c" transform="translate(10,387)" width="70" height="20" rx="5"/>
+        <rect class="c" transform="translate(10,325)" width="53" height="20" rx="5"/>
+        <rect class="c" transform="translate(10,415)" width="153" height="20" rx="5"/>
+        <rect class="c" transform="translate(10,353)" width="41" height="20" rx="5"/>
+        <rect class="c" transform="translate(59,353)" width="70" height="20" rx="5"/>
+        <rect class="c" transform="translate(10,304)" width="230" height="1"/>
+      </g>
+      <g transform="translate(10,192)">
+        <g transform="translate(0,24)">
+          <rect class="e" width="64" height="64" rx="3" fill="#c30101"/>
+          <rect class="f" transform="translate(44,44)" width="22" height="22" rx="11" fill="#fff"/>
+          <rect class="g" transform="translate(42,42)" width="26" height="26" rx="11" fill="#c60000"/>
+          <rect class="h" transform="translate(42,42)" width="26" height="26" rx="13" fill="none" stroke="#fff" stroke-width="4px"/>
+        </g>
+        <g transform="translate(-398,-597)" font-size="12px">
+          <text class="i" transform="translate(474,633)" fill="#5f5f61" font-family="WhitneyHTF-SemiBold, 'Whitney HTF'" font-weight="600"><tspan x="0" y="0">Visual Studio Code</tspan></text>
+          <g font-family="WhitneyHTF-Medium, 'Whitney HTF'" font-weight="500">
+            <text class="j" transform="translate(474,648)" fill="#a08c5b"><tspan x="0" y="0">Working on Emesense</tspan></text>
+            <text class="k" transform="translate(474,678)" fill="#bcbcbc"><tspan x="0" y="0">00:37 elapsed</tspan></text>
+            <text class="k" transform="translate(474,663)" fill="#bcbcbc"><tspan x="0" y="0">Pushed 3 of 6</tspan></text>
+          </g>
+          <text class="l" transform="translate(398,609)" fill="#a08c5b" font-family="WhitneyHTF-Bold, 'Whitney HTF'" font-weight="700"><tspan x="0" y="0">PLAYING A GAME</tspan></text>
+        </g>
+      </g>
+      <path class="m" d="m0 3.992a4 4 0 0 1 4-3.992h242a4 4 0 0 1 4 3.992v178.01h-250z" fill="#a08c5b"/>
+      <rect class="n" transform="translate(49,138)" width="153" height="20" rx="5" fill="#fff" opacity=".2"/>
+      <g transform="translate(80,20)">
+        <rect class="o" width="90" height="90" rx="45" fill="#fb0000"/>
+      </g>
+    </g>
+  </g>
+</svg>

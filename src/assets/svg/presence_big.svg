@@ -1,0 +1,60 @@
+<svg version="1.1" viewBox="0 0 913.94 1795" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>.a{opacity:0.1;}.b,.d{fill:#fff;}.b{fill-rule:evenodd;}.c{fill:#f6f6f7;}.e{fill:#a08c5b;}.f{fill:url(#a);}.g{fill:url(#b);}.h{fill:none;stroke:#fff;stroke-width:4px;}.i{fill:#36393f;font-family:WhitneyHTF-SemiBold, Whitney HTF;font-weight:600;}.i,.k,.l{font-size:38px;}.j{fill:#4b5057;font-size:42px;font-family:WhitneyHTF-Bold, Whitney HTF;font-weight:700;letter-spacing:0.022em;}.k{fill:#7e7e7e;}.k,.l{font-family:WhitneyHTF-Medium, Whitney HTF;font-weight:500;}.l{fill:#bcbcbc;}.m{fill:#232323;}.n{fill:#383838;}.o{fill:#cbb682;opacity:0.65;}.p{fill:url(#c);}</style>
+    <pattern id="a" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" viewBox="0 0 4896 3264">
+      <image width="4896" height="3264" xlink:href=""/>
+    </pattern>
+    <pattern id="b" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" viewBox="0 0 1024 1024">
+      <image width="1024" height="1024" xlink:href=""/>
+    </pattern>
+    <pattern id="c" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" viewBox="0 0 2480 1704">
+      <image width="2480" height="1704" xlink:href=""/>
+    </pattern>
+    <filter id="filter9312" x="-.24" y="-.24" width="1.48" height="1.48" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="32.88"/>
+    </filter>
+    <filter id="filter9332" x="-.24" y="-.24" width="1.48" height="1.48" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="23.3968"/>
+    </filter>
+  </defs>
+  <g transform="translate(-125 -42)">
+    <g transform="translate(125,42)">
+      <g transform="translate(0 1604.9)">
+        <path class="b" d="m0 0h913.94v175.5a14.633 14.633 0 0 1-14.638 14.6h-884.67a14.621 14.621 0 0 1-14.633-14.6z" fill="#fff" fill-rule="evenodd"/>
+        <rect class="c" transform="translate(36.558,36.558)" width="840.82" height="116.98" rx="5" fill="#f6f6f7"/>
+      </g>
+      <rect class="d" transform="translate(0 665.35)" width="913.94" height="943.18" fill="#fff"/>
+      <g fill="#f6f6f7">
+        <rect class="c" transform="translate(36.558 1414.8)" width="255.9" height="73.115" rx="5"/>
+        <rect class="c" transform="translate(36.558 1188.1)" width="193.76" height="73.115" rx="5"/>
+        <rect class="c" transform="translate(36.558 1517.1)" width="559.33" height="73.115" rx="5"/>
+        <rect class="c" transform="translate(36.558 1290.5)" width="149.89" height="73.115" rx="5"/>
+        <rect class="c" transform="translate(215.69 1290.5)" width="255.9" height="73.115" rx="5"/>
+        <rect class="c" transform="translate(36.558 1111.3)" width="840.82" height="3.656"/>
+      </g>
+      <g transform="translate(36.558 701.9)">
+        <g transform="translate(0,87.738)">
+          <rect class="e" width="233.97" height="233.97" rx="3" fill="#a08c5b" filter="url(#filter9332)"/>
+          <rect class="f" width="233.97" height="233.97" rx="3" fill="url(#a)"/>
+          <rect class="g" transform="translate(153.85 153.85)" width="94.427" height="94.427" rx="47.213" fill="url(#b)"/>
+          <rect class="h" transform="translate(153.54 153.54)" width="95.049" height="95.049" rx="47.525" fill="none" stroke="#fff" stroke-width="4px"/>
+        </g>
+        <g transform="translate(277.84 91.394)">
+          <text class="i" transform="translate(0,36)" fill="#36393f" font-family="WhitneyHTF-SemiBold, 'Whitney HTF'" font-size="38px" font-weight="600"><tspan x="0" y="0">Visual Studio Code</tspan></text>
+          <text class="j" transform="translate(-279,-48)" fill="#4b5057" font-family="WhitneyHTF-Bold, 'Whitney HTF'" font-size="42px" font-weight="700" letter-spacing=".022em"><tspan x="0" y="0">PLAYING A GAME</tspan></text>
+          <g font-family="WhitneyHTF-Medium, 'Whitney HTF'" font-size="38px" font-weight="500">
+            <text class="k" transform="translate(0,90.836)" fill="#7e7e7e"><tspan x="0" y="0">Working on Emesense</tspan></text>
+            <text class="l" transform="translate(0 200.51)" fill="#bcbcbc"><tspan x="0" y="0">00:37 elapsed</tspan></text>
+            <text class="l" transform="translate(0 145.67)" fill="#bcbcbc"><tspan x="0" y="0">Pushed 3 of 6</tspan></text>
+          </g>
+        </g>
+      </g>
+      <path class="m" d="m0 14.594a14.629 14.629 0 0 1 14.633-14.594h884.67a14.612 14.612 0 0 1 14.634 14.594v650.75h-913.93z" fill="#232323"/>
+      <rect class="n" transform="translate(179.13 504.49)" width="559.33" height="73.115" rx="5" fill="#383838"/>
+      <g transform="translate(292.46,73.115)">
+        <path class="o" transform="translate(.078 .218)" d="M 164.4,0 A 164.4,164.4 0 1 1 0,164.4 164.4,164.4 0 0 1 164.4,0 Z" fill="#cbb682" filter="url(#filter9312)" opacity=".65"/>
+        <rect class="p" width="329.02" height="329.02" rx="164.51" fill="url(#c)"/>
+      </g>
+    </g>
+  </g>
+</svg>
